@@ -1,0 +1,11 @@
+
+Title: "ThE ClEaNsInG"
+Language : Java
+Type : Maze RPG
+Player : A soldier with a gun
+Enemies: Various Zombies
+Modes: Level mode --AND-- Survival mode
+Goal:  {
+        Level mode : Kill all zombies to go to the next level (with exceptions)
+        }
+        {Survival mode : Kill as many zombies as possible}
